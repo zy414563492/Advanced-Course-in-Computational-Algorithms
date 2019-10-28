@@ -1,7 +1,8 @@
 # Advanced Course in Computational Algorithms
-Report Assigment 1
 
-# Problem 1
+## Report Assigment 1
+
+### Problem 1
 Answer the following problems. Source cides and their execution results should be included in your report.
 
 
